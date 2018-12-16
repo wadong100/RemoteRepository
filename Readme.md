@@ -1,6 +1,6 @@
 # Hello
 
-*How to build
+* How to build
 
 Just type `make`
 
